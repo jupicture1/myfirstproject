@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<loader>
+	<appName>APS_FX</appName>
+	<appType>com.athena.config.aps.GroupTypeAPS</appType>
+	<environments>
+		<environment class="com.athena.config.AthenaEnvironment" name="Athena FX">
+			<lookup driver="org.postgresql.Driver" password="postgres"
+				priority="1" type="DB"
+				url="jdbc:postgresql://refinitiv-db-dev.cyunttcjwwit.us-east-1.rds.amazonaws.com:5432/testbankcloud"
+				username="postgres" />
+		</environment>
+	</environments>
+</loader>
