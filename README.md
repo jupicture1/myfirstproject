@@ -2,4 +2,4 @@
 
 
 
-Today is an amazing hot day in London.
+Today is an amazing hot day in Reading.
